@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundofsilence75/mongoose-blog.git"
+  },
+  "author": "Roy Baron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundofsilence75/mongoose-blog/issues"
+  },
+  "homepage": "https://github.com/soundofsilence75/mongoose-blog#readme"
+}
